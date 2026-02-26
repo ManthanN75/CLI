@@ -1,0 +1,10 @@
+D:\rust\cli_tool\target\debug\deps\version_check-9c8d141b1d2990d7.d: D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs
+
+D:\rust\cli_tool\target\debug\deps\libversion_check-9c8d141b1d2990d7.rlib: D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs
+
+D:\rust\cli_tool\target\debug\deps\libversion_check-9c8d141b1d2990d7.rmeta: D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs
+
+D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\lib.rs:
+D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\version.rs:
+D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\channel.rs:
+D:\Manthan\solana-dev\rustup\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.5\src\date.rs:

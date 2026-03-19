@@ -1,1 +1,3 @@
 Makefile linguist-documentation=true
+
+*.rs linguist-detectable=true

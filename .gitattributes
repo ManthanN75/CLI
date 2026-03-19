@@ -1,3 +1,7 @@
 Makefile linguist-documentation=true
 
 *.rs linguist-detectable=true
+
+
+target/** linguist-vendored
+target/** linguist-generated
